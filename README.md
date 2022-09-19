@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🔭 I’m currently planning on a game similar to the old GOW  
   
 
-- 🌱 I’m currently learning the AWS Technology  
+- 🌱 Currently on a Udemy course learning the AWS Technology  
   
 
 <br/>  
