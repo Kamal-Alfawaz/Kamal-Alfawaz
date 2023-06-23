@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =====================================================================================================================================
 
-### <div align="center">I'm Kamal, a student at Queen Mary university of London going into my second year of study for Computer Science.</div>  
+### <div align="center">I'm Kamal, a student at Queen Mary university of London going into my third year of study for Computer Science.</div>  
   
 - 🌍  I'm based in London 
 
