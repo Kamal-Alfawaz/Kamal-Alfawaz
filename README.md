@@ -3,12 +3,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### <div align="center">I'm Kamal, a student at Queen Mary university of London going into my third year of study for Computer Science.</div>  
   
-- 🌍  I'm based in London 
+- 🌍 I'm based in London 
 
-- 🔭 I’m currently planning on a game similar to the old GOW  
+- 🔭 I’m currently making a machine learning based GymPlanner application
   
-
-- 🌱 Currently on a Udemy course learning the AWS Technology  
+- 🌱 Currently learning machine learning and how to use AndroidStudio
   
 
 <br/>  
