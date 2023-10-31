@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 🔭 I’m currently making a machine learning based GymPlanner application
   
-- 🌱 Currently learning machine learning and how to use AndroidStudio
+- 🌱 Currently learning machine learning along with flutter and firebase
   
 
 <br/>  
